@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "Name": "Koshi",
+    "Nepali": "कोशी"
+  },
+  {
+    "id": 2,
+    "Name": "Madhesh",
+    "Nepali": "मधेश्"
+  },
+  {
+    "id": 3,
+    "Name": "Bagmati",
+    "Nepali": "बागमती"
+  },
+  {
+    "id": "Gandaki",
+    "Name": "Gandaki",
+    "Nepali": "गण्डकी"
+  },
+  {
+    "id": "Lumbini",
+    "Name": "Lumbini",
+    "Nepali": "लुम्बिनि"
+  },
+  {
+    "id": "Karnali",
+    "Name": "Karnali",
+    "Nepali": "कर्णाली"
+  },
+  {
+    "id": "SudurPaschim",
+    "Name": "SudurPaschim ",
+    "Nepali": "सुदुर्पश्चिम"
+  }
+]

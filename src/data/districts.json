@@ -1,0 +1,219 @@
+[
+  {
+    "Name": "Bhojpur",
+    "Nepali": "भोजपुर जिल्ला",
+    "province_id": 1
+  },
+  {
+    "Name": "Dhankuta",
+    "Nepali": "धनकुटा जिल्ला",
+    "province_id": 1
+  },
+  { "Name": "Ilam", "Nepali": "इलाम जिल्ला", "province_id": 1 },
+  { "Name": "Jhapa", "Nepali": "झापा जिल्ला", "province_id": 1 },
+  {
+    "Name": "Khotang",
+    "Nepali": "खोटाँग जिल्ला",
+    "province_id": 1
+  },
+  { "Name": "Morang", "Nepali": "मोरंग जिल्ला", "province_id": 1 },
+  {
+    "Name": "Okhaldhunga",
+    "Nepali": "ओखलढुंगा जिल्ला",
+    "province_id": 1
+  },
+  {
+    "Name": "Panchthar",
+    "Nepali": "पांचथर जिल्ला",
+    "province_id": 1
+  },
+  {
+    "Name": "Sankhuwasabha",
+    "Nepali": "संखुवासभा जिल्ला",
+    "province_id": 1
+  },
+  {
+    "Name": "Solukhumbu",
+    "Nepali": "सोलुखुम्बू जिल्ला",
+    "province_id": 1
+  },
+  {
+    "Name": "Sunsari",
+    "Nepali": "सुनसरी जिल्ला",
+    "province_id": 1
+  },
+  {
+    "Name": "Taplejung",
+    "Nepali": "ताप्लेजुंग जिल्ला",
+    "province_id": 1
+  },
+  {
+    "Name": "Terhathum",
+    "Nepali": "तेह्रथुम जिल्ला",
+    "province_id": 1
+  },
+  {
+    "Name": "Udayapur",
+    "Nepali": "उदयपुर जिल्ला",
+    "province_id": 1
+  },
+  {
+    "Name": "Saptari",
+    "Nepali": "सप्तरी जिल्ला",
+    "province_id": 2
+  },
+  { "Name": "Parsa", "Nepali": "पर्सा जिल्ला", "province_id": 2 },
+  {
+    "Name": "Sarlahi",
+    "Nepali": "सर्लाही जिल्ला",
+    "province_id": 2
+  },
+  { "Name": "Bara", "Nepali": "बारा जिल्ला", "province_id": 2 },
+  { "Name": "Siraha", "Nepali": "सिराहा जिल्ला", "province_id": 2 },
+  {
+    "Name": "Dhanusha",
+    "Nepali": "धनुषा जिल्ला",
+    "province_id": 2
+  },
+  {
+    "Name": "Rautahat",
+    "Nepali": "रौतहट जिल्ला",
+    "province_id": 2
+  },
+  {
+    "Name": "Mahottari",
+    "Nepali": "महोत्तरी जिल्ला",
+    "province_id": 2
+  },
+  {
+    "Name": "Sindhuli",
+    "Nepali": "सिन्धुली जिल्ला",
+    "province_id": 3
+  },
+  {
+    "Name": "Ramechhap",
+    "Nepali": "रामेछाप जिल्ला",
+    "province_id": 3
+  },
+  { "Name": "Dolakha", "Nepali": "दोलखा जिल्ला", "province_id": 3 },
+  {
+    "Name": "Bhaktapur",
+    "Nepali": "भक्तपुर जिल्ला",
+    "province_id": 3
+  },
+  { "Name": "Dhading", "Nepali": "धादिङ जिल्ला", "province_id": 3 },
+  {
+    "Name": "Kathmandu",
+    "Nepali": "काठमाडौँ जिल्ला",
+    "province_id": 3
+  },
+  {
+    "Name": "Kavrepalanchok",
+    "Nepali": "काभ्रेपलान्चोक जिल्ला",
+    "province_id": 3
+  },
+  {
+    "Name": "Lalitpur",
+    "Nepali": "ललितपुर जिल्ला",
+    "province_id": 3
+  },
+  {
+    "Name": "Nuwakot",
+    "Nepali": "नुवाकोट जिल्ला",
+    "province_id": 3
+  },
+  { "Name": "Rasuwa", "Nepali": "रसुवा जिल्ला", "province_id": 3 },
+  {
+    "Name": "Sindhupalchok",
+    "Nepali": "सिन्धुपाल्चोक जिल्ला",
+    "province_id": 3
+  },
+  { "Name": "Chitwan", "Nepali": "चितवन जिल्ला", "province_id": 3 },
+  {
+    "Name": "Makwanpur",
+    "Nepali": "मकवानपुर जिल्ला",
+    "province_id": 3
+  },
+  { "Name": "Baglung", "Nepali": "बागलुङ जिल्ला", "province_id": 4 },
+  { "Name": "Gorkha", "Nepali": "गोरखा जिल्ला", "province_id": 4 },
+  { "Name": "Kaski", "Nepali": "कास्की जिल्ला", "province_id": 4 },
+  { "Name": "Lamjung", "Nepali": "लमजुङ जिल्ला", "province_id": 4 },
+  { "Name": "Manang", "Nepali": "मनाङ जिल्ला", "province_id": 4 },
+  { "Name": "Mustang", "Nepali": "मुस्ताङ जिल्ला", "province_id": 4 },
+  { "Name": "Myagdi", "Nepali": "म्याग्दी जिल्ला", "province_id": 4 },
+  { "Name": "Nawalpur", "Nepali": "नवलपुर जिल्ला", "province_id": 4 },
+  { "Name": "Parbat", "Nepali": "पर्वत जिल्ला", "province_id": 4 },
+  { "Name": "Syangja", "Nepali": "स्याङग्जा जिल्ला", "province_id": 4 },
+  { "Name": "Tanahun", "Nepali": "तनहुँ जिल्ला", "province_id": 4 },
+  {
+    "Name": "Kapilvastu",
+    "Nepali": "कपिलवस्तु जिल्ला",
+    "province_id": 5
+  },
+  { "Name": "Parasi", "Nepali": "परासी जिल्ला", "province_id": 5 },
+  {
+    "Name": "Rupandehi",
+    "Nepali": "रुपन्देही जिल्ला",
+    "province_id": 5
+  },
+  {
+    "Name": "Arghakhanchi",
+    "Nepali": "अर्घाखाँची जिल्ला",
+    "province_id": 5
+  },
+  { "Name": "Gulmi", "Nepali": "गुल्मी जिल्ला", "province_id": 5 },
+  { "Name": "Palpa", "Nepali": "पाल्पा जिल्ला", "province_id": 5 },
+  { "Name": "Dang", "Nepali": "दाङ जिल्ला", "province_id": 5 },
+  {
+    "Name": "Pyuthan",
+    "Nepali": "प्युठान जिल्ला",
+    "province_id": 5
+  },
+  { "Name": "Rolpa", "Nepali": "रोल्पा जिल्ला", "province_id": 5 },
+  {
+    "Name": "Eastern Rukum",
+    "Nepali": "पूर्वी रूकुम जिल्ला",
+    "province_id": 5
+  },
+  { "Name": "Banke", "Nepali": "बाँके जिल्ला", "province_id": 5 },
+  {
+    "Name": "Bardiya",
+    "Nepali": "बर्दिया जिल्ला",
+    "province_id": 5
+  },
+  {
+    "Name": "Western Rukum",
+    "Nepali": "पश्चिमी रूकुम जिल्ला",
+    "province_id": 6
+  },
+  { "Name": "Salyan", "Nepali": "सल्यान जिल्ला", "province_id": 6 },
+  { "Name": "Dolpa", "Nepali": "डोल्पा जिल्ला", "province_id": 6 },
+  { "Name": "Humla", "Nepali": "हुम्ला जिल्ला", "province_id": 6 },
+  { "Name": "Jumla", "Nepali": "जुम्ला जिल्ला", "province_id": 6 },
+  { "Name": "Kalikot", "Nepali": "कालिकोट जिल्ला", "province_id": 6 },
+  { "Name": "Mugu", "Nepali": "मुगु जिल्ला", "province_id": 6 },
+  { "Name": "Surkhet", "Nepali": "सुर्खेत जिल्ला", "province_id": 6 },
+  { "Name": "Dailekh", "Nepali": "दैलेख जिल्ला", "province_id": 6 },
+  { "Name": "Jajarkot", "Nepali": "जाजरकोट जिल्ला", "province_id": 6 },
+  { "Name": "Kailali", "Nepali": "कैलाली जिल्ला", "province_id": 7 },
+  { "Name": "Achham", "Nepali": "अछाम जिल्ला", "province_id": 7 },
+  { "Name": "Doti", "Nepali": "डोटी जिल्ला", "province_id": 7 },
+  { "Name": "Bajhang", "Nepali": "बझाङ जिल्ला", "province_id": 7 },
+  { "Name": "Bajura", "Nepali": "बाजुरा जिल्ला", "province_id": 7 },
+  {
+    "Name": "Kanchanpur",
+    "Nepali": "कंचनपुर जिल्ला",
+    "province_id": 7
+  },
+  {
+    "Name": "Dadeldhura",
+    "Nepali": "डडेलधुरा जिल्ला",
+    "province_id": 7
+  },
+  { "Name": "Baitadi", "Nepali": "बैतडी जिल्ला", "province_id": 7 },
+  {
+    "Name": "Darchula",
+    "Nepali": "दार्चुला जिल्ला",
+    "province_id": 7
+  }
+]

@@ -1,0 +1,196 @@
+import { StyleSheet, Dimensions } from "react-native";
+
+const styles = StyleSheet.create({
+  brand: {
+    flexDirection: "row",
+    alignItems: "center",
+  },
+  brandName: {
+    fontSize: 18,
+    fontWeight: "bold",
+    textTransform: "uppercase",
+  },
+  camera: {
+    flex: 1,
+    width: Dimensions.get("window").width,
+    height: Dimensions.get("window").height,
+  },
+  closeButton: {
+    position: "absolute",
+    top: 20,
+    right: 20,
+    zIndex: 1,
+  },
+  container: {
+    flex: 1,
+    backgroundColor: "#fff",
+    alignItems: "center",
+    paddingHorizontal: 15,
+    position: "relative",
+  },
+  contactsButton: {
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    flexDirection: "row",
+  },
+  contactsButtonIcon: {
+    marginRight: 5,
+  },
+  contactsButtonText: {
+    fontSize: 14,
+    color: "#8D64FF",
+  },
+  emergencyBox: {
+    width: "100%",
+    paddingHorizontal: 15,
+    paddingVertical: 15,
+    alignItems: "center",
+    borderColor: "#8D64FF",
+    borderWidth: 2,
+    borderRadius: 2,
+    flexDirection: "row",
+    marginTop: 30,
+    justifyContent: "center",
+  },
+  container1: {
+    alignItems: "center",
+    flexDirection: "column",
+    position: "relative",
+    paddingRight: 10,
+  },
+  tooltip: {
+    width: 250,
+    height: 100,
+    resizeMode: "contain",
+    position: "absolute",
+    bottom: 90,
+    left: 10,
+  },
+  emergencyButton: {
+    width: 110,
+    height: 110,
+    resizeMode: "contain",
+  },
+  emergencyText: {
+    fontSize: 25,
+    fontWeight: "bold",
+    color: "#3C1372",
+  },
+  header: {
+    width: "100%",
+    paddingVertical: 10,
+    marginTop: 20,
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
+  },
+  logo: {
+    height: 40,
+    width: 40,
+    resizeMode: "contain",
+    marginRight: 10,
+  },
+  pinnedContacts: {
+    borderLeftColor: "#8D64FF",
+    borderLeftWidth: 1,
+    paddingLeft: 10,
+    flex: 1,
+    marginLeft: 10,
+  },
+  pinnedContactsHeader: {
+    flexDirection: "row",
+    alignItems: "center",
+    borderBottomColor: "#3C1372",
+    borderBottomWidth: 1.5,
+    padddingHorizontal: 5,
+    paddingBottom: 5,
+  },
+  pinnedContactsHeaderIcon: {
+    marginRight: 5,
+  },
+  pinnedContactsHeaderText: {
+    fontSize: 16,
+    fontWeight: "bold",
+    color: "#3C1372",
+  },
+  pinnedContactsList: {
+    width: "100%",
+    paddingVertical: 10,
+  },
+  pinnedContact: {
+    flexDirection: "row",
+    alignItems: "center",
+    paddingVertical: 7,
+    justifyContent: "space-between",
+  },
+  pinnedContactName: {
+    fontSize: 14,
+    color: "#3C1372",
+  },
+  pinnedContactIcon: {
+    paddingHorizontal: 10,
+    paddingVertical: 3,
+    backgroundColor: "#8D64FF",
+    borderRadius: 5,
+  },
+  quickAccessButtonsContainer: {
+    flexDirection: "row",
+    width: "100%",
+    borderColor: "#8D64FF",
+    borderWidth: 2,
+    borderRadius: 5,
+    paddingVertical: 10,
+    paddingHorizontal: 5,
+  },
+  quickAccessButtonIcon: {
+    width: 35,
+    height: 35,
+    resizeMode: "contain",
+  },
+  quickAccessContainer: {
+    width: "100%",
+    paddingVertical: 15,
+    alignItems: "center",
+    marginVertical: 15,
+  },
+  quickAccessTitle: {
+    fontSize: 20,
+    fontWeight: "bold",
+    textTransform: "uppercase",
+    color: "#3C1372",
+    marginBottom: 10,
+  },
+  saveButton: {
+    position: "absolute",
+    bottom: 30,
+    // center horizontally
+    left: Dimensions.get("window").width / 2 - 25,
+    width: 65,
+    height: 65,
+    borderRadius: 50,
+    alignItems: "center",
+    justifyContent: "center",
+    borderColor: "#fff",
+    borderWidth: 2,
+  },
+  settings: {
+    padding: 10,
+    borderColor: "#8D64FF",
+    borderWidth: 1,
+    borderRadius: 50,
+  },
+  settingsIcon: {
+    width: 25,
+    height: 25,
+    resizeMode: "contain",
+  },
+  timer: {
+    fontSize: 20,
+    fontWeight: "bold",
+    marginHorizontal: 15,
+    color: "#8D64FF",
+  },
+});
+
+export default styles;
